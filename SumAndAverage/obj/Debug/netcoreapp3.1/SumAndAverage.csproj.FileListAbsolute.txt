@@ -1,0 +1,13 @@
+F:\GrandCircus\C#\SumAndAverage\SumAndAverage\bin\Debug\netcoreapp3.1\SumAndAverage.exe
+F:\GrandCircus\C#\SumAndAverage\SumAndAverage\bin\Debug\netcoreapp3.1\SumAndAverage.deps.json
+F:\GrandCircus\C#\SumAndAverage\SumAndAverage\bin\Debug\netcoreapp3.1\SumAndAverage.runtimeconfig.json
+F:\GrandCircus\C#\SumAndAverage\SumAndAverage\bin\Debug\netcoreapp3.1\SumAndAverage.runtimeconfig.dev.json
+F:\GrandCircus\C#\SumAndAverage\SumAndAverage\bin\Debug\netcoreapp3.1\SumAndAverage.dll
+F:\GrandCircus\C#\SumAndAverage\SumAndAverage\bin\Debug\netcoreapp3.1\SumAndAverage.pdb
+F:\GrandCircus\C#\SumAndAverage\SumAndAverage\obj\Debug\netcoreapp3.1\SumAndAverage.csprojAssemblyReference.cache
+F:\GrandCircus\C#\SumAndAverage\SumAndAverage\obj\Debug\netcoreapp3.1\SumAndAverage.AssemblyInfoInputs.cache
+F:\GrandCircus\C#\SumAndAverage\SumAndAverage\obj\Debug\netcoreapp3.1\SumAndAverage.AssemblyInfo.cs
+F:\GrandCircus\C#\SumAndAverage\SumAndAverage\obj\Debug\netcoreapp3.1\SumAndAverage.csproj.CoreCompileInputs.cache
+F:\GrandCircus\C#\SumAndAverage\SumAndAverage\obj\Debug\netcoreapp3.1\SumAndAverage.dll
+F:\GrandCircus\C#\SumAndAverage\SumAndAverage\obj\Debug\netcoreapp3.1\SumAndAverage.pdb
+F:\GrandCircus\C#\SumAndAverage\SumAndAverage\obj\Debug\netcoreapp3.1\SumAndAverage.genruntimeconfig.cache
